@@ -1,7 +1,7 @@
 # Power-BI-Project-Data-Professional-Survey-Breakdown
 Visual analysis of data professionals’ career insights using Power BI - from raw data to dashboard.
 
-
+![Image Alt](https://github.com/Pan-Phyu-Phyu-Khin/Power-BI-Project-Data-Professional-Survey-Breakdown/blob/1ed158e25d496abc778ce70730c7bd33988e72c7/Data%20Professional%20Survey%20Breakdown.png)
 
 This Power BI project analyzes data from a survey of data professionals to uncover insights about job roles, tools used, work satisfaction, salaries, and more.
 
